@@ -14,7 +14,7 @@
 	"author": "Amish Shah <contact@shah.gg>",
 	"license": "MIT",
 	"dependencies": {
-		"@discordjs/opus": "^0.5.3",
+		"@discordjs/opus": "^0.9.0",
 		"discord-api-types": "^0.22.0",
 		"discord.js": "^13.0.1",
 		"libsodium-wrappers": "^0.7.9",
